@@ -253,5 +253,3 @@ class Game:
 
 g = Game()
 g.start()
-
-print("Hello")
